@@ -11,7 +11,7 @@
     "d3": "^5.9.7",
     "examples": "^0.1.0",
     "src": "^1.1.2",
-    "three": "^0.106.2",
+    "three": "^0.125.0",
     "three-obj-mtl-loader": "^1.0.3",
     "three-orbitcontrols-ts": "git+https://git@github.com/nicolaspanel/three-orbitcontrols-ts.git",
     "yarn": "^1.17.3"
